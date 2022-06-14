@@ -5,6 +5,8 @@ In this letter, the feature point pairs (FPPs) were optimized to achieve higher 
 
 [1] J. Li, Q. Hu and M. Ai, "RIFT: Multi-modal image matching based on radiation-variation insensitive feature transform," IEEE Transactions on Image Processing, vol. 29, pp. 3296 - 3310, Dec. 2019. 
 
-[2] Y. Ye, J. Shan, L. Bruzzone and L. Shen, "Robust registration of multimodal remote sensing images based on structural similarity," IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 5, pp. 2941-2958, May 2017. 
+[2] Y. Wu, W. Ma, M. Gong, L. Su and L. Jiao, "A Novel Point-Matching Algorithm Based on Fast Sample Consensus for Image Registration," in IEEE Geoscience and Remote Sensing Letters, vol. 12, no. 1, pp. 43-47, Jan. 2015.
 
-[3] Y. Ye, L. Bruzzone, J. Shan, F. Bovolo and Q. Zhu, "Fast and robust matching for multimodal remote sensing image registration," IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 11, pp. 9059-9070, Nov. 2019. 
+[3] Y. Ye, J. Shan, L. Bruzzone and L. Shen, "Robust registration of multimodal remote sensing images based on structural similarity," IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 5, pp. 2941-2958, May 2017. 
+
+[4] Y. Ye, L. Bruzzone, J. Shan, F. Bovolo and Q. Zhu, "Fast and robust matching for multimodal remote sensing image registration," IEEE Transactions on Geoscience and Remote Sensing, vol. 57, no. 11, pp. 9059-9070, Nov. 2019. 
