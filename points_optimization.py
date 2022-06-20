@@ -118,8 +118,8 @@ if __name__ == "__main__":
         # endregion
 
         file = open(losses_path, mode="x")
-        for i in range(len(plt_optim.del_acc_diffs)):
-            file.write(f"{plt_optim.del_acc_diffs[i]}\n")
+        for i in range(len(plt_optim.del_losses)):
+            file.write(f"{plt_optim.del_losses[i]}\n")
         file.close()
 
 
