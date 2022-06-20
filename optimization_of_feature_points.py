@@ -61,9 +61,9 @@ class PointsOptimization:
     convex_hull : scipy.ConvexHull
         The convex hull of f_pts.
     losses : numpy.array
-        An array that records AD of each point.
+        An array that records loss of each point.
     del_losses : list
-        A list that records the maximum AD value in each iteration.
+        A list that records the maximum loss value in each iteration.
     del_f_pts : list
         List of deleted f_pt.
     del_m_pts : list
