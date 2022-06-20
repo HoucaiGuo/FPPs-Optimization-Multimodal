@@ -65,9 +65,9 @@ class PointsOptimization:
     del_losses : list
         A list that records the maximum loss value in each iteration.
     del_f_pts : list
-        List of deleted f_pt.
+        List of the deleted f_pt.
     del_m_pts : list
-        List of deleted m_pt.
+        List of the deleted m_pt.
     """
 
     def __init__(self, f_img, m_img, f_pts, m_pts, criterion="ssim_of_msolg", order=3):
