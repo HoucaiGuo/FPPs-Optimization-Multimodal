@@ -1,5 +1,5 @@
 # Optimizing-the-PL-registration-of-MMRS-images-using-MSOLG-features
-This repository contains the code of "Point Pairs Optimization for Piecewise Linear Transformation of Multimodal Remote Sensing Images by the Similarity of Log-Gabor Features". This letter has been submitted to the IEEE Geoscience and Remote Sensing Letters and is waiting for peer review.
+This repository contains the code of "Point Pairs Optimization for Piecewise Linear Transformation of Multimodal Remote Sensing Images by the Similarity of Log-Gabor Features". This letter has been accepted by the IEEE Geoscience and Remote Sensing Letters.
 
 The authors are: Houcai Guo, Hanzeyu Xu, Yuchun Wei* and YUzhen Shen (*: corresponding author). The authors are with the Jiangsu Center for Collaborative Innovation in Geographical Information Resource Development and Application, the Key Laboratory of Virtual Geographic Environment of Ministry of Education, and the School of Geography, Nanjing Normal University, Nanjing 210023, China. 
 
